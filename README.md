@@ -11,4 +11,4 @@ The default sonic pi sound, piano, prophet, dark ambience, bass drum and snare d
 
 '''The synth has volume controls which you can change ''' 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/eriktoor/OSC_Synth/blob/master/piano_pic.PNG)
